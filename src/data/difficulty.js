@@ -1,19 +1,15 @@
 export const difficulty = [
     { 
-    title: '5 pairs',
+    title: '6 pairs',
     index: 15
     }, 
     { 
-    title: '10 pairs',
-    index: 10
+    title: '12 pairs',
+    index: 9
     },
     { 
-    title: '15 pairs',
-    index: 5
-    }, 
-    { 
-    title: '20 pairs',
-    index: 1
+    title: '18 pairs',
+    index: 3
     }, 
 ]
   
